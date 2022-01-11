@@ -1,0 +1,62 @@
+.card{
+    height: 450px;
+    width: 370px;
+    margin-left:65px;
+    align-items: center;
+    border-radius: 20px;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+.text-center{
+    margin-top: 20px;
+}
+.smartphones{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.laptop{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.categories{
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+.btn-warning{
+    height: 0%;;
+    width: 100px;
+}
+.bag1{
+    height: 600px;
+    width: 600px;
+}
+.pale{
+    height: 600px;
+    width: 600px;
+
+}
+.bag2{
+    align-items: center;
+    justify-content: center;
+}
+.yx{
+    height: 300px;
+}
+.small{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.card-item {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    height: 220px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
